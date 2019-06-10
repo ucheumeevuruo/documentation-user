@@ -70,7 +70,7 @@ The document is composed of three parts:
 Open or Pro-forma invoices
 ==========================
 
-An invoice will usually include the quantity and price the of goods
+An invoice will usually include the quantity and price of goods
 and/or services, the date, any parties involved, the unique invoice
 number, and any tax information.
 
